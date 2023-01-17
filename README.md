@@ -1,5 +1,5 @@
 # CS3361-DATA-SCIENCE-LABORATORY-PROGRAMS
-Its contains the program for "CS3361-DATA SCIENCE LABORATORY" of the regulation 2021.
+It contains the program for "CS3361-DATA SCIENCE LABORATORY" of the regulation 2021.
 The Programs in this repository covers the following topic:
   1. Working with Numpy arrays
   2. Working with Pandas data frames
